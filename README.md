@@ -1,2 +1,3 @@
-# ML_notebooks
-A collection of machine learning mini projects
+This is a collection of mini projects on machine learning and basic data analysis.
+
+Tags : Classification, training neural networks with theano, Iris
