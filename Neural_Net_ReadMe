@@ -1,0 +1,4 @@
+This is an implementation from scratch of a neural network in Python.
+
+It is then evluated against a Logsitic Regression classifier [through sklearn], and the decision boundaries of the two models are evaluated.
+Dataset used is the make_moons dataset from sklearn.
