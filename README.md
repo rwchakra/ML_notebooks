@@ -1,3 +1,5 @@
+Diabetes.ipynb
+
 This dataset has been obtained from the UCI Machine Learning Repository. 
 
 Number of Instances: 768
@@ -16,3 +18,15 @@ Description : Several constraints were placed on the selection of these instance
    7. Diabetes pedigree function
    8. Age (years)
    9. Class variable (0 or 1)
+
+theano_python.ipynb
+
+This code implements a deep neural network using Theano ---
+
+Input dimensionality -- 2
+Output " -- 2
+1 hidden layer with dimensionality of 100
+
+Uses regularization (0.01) and normal gradient descent with learning rate of 0.01
+
+Dataset make_moons generated through sklearn 
