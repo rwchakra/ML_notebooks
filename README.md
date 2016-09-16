@@ -1,3 +1,8 @@
 This is a collection of mini projects on machine learning and basic data analysis.
 
-Tags : Classification, training neural networks with theano, Iris
+Libraries and versions used at the time of writing:
+
+numpy: 1.11.1
+matplotlib: 1.5.1
+pandas: 0.18.1
+sklearn: 0.17.1
