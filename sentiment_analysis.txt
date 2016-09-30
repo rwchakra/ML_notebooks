@@ -1,0 +1,10 @@
+The Multi-Domain Sentiment Dataset contains product reviews taken from Amazon.com from 4 product types (domains): 
+Kitchen, Books, DVDs, and Electronics. Each domain has several thousand reviews, but the exact number varies by domain. 
+Reviews contain star ratings (1 to 5 stars) that can be converted into binary labels if needed. 
+I decided to work with the Electronics reviews
+
+Two models were tested on the same data and evaluated --- Logistic Regression and AdaBoostClassifier
+
+
+
+Data source: https://www.cs.jhu.edu/~mdredze/datasets/sentiment/index2.html
