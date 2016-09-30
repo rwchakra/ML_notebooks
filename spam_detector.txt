@@ -1,0 +1,6 @@
+This notebook aims to build a spam filter with two popular approaches:
+
+The Naive Bayes Approach
+An ensemble approach (In this case, this proves to be the better model)
+
+Data source: 
