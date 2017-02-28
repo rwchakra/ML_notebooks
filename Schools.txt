@@ -1,0 +1,3 @@
+This notebook includes analysis of SAT and AP scores in schools of NYC. 
+
+Data source : schools.nyc.gov
